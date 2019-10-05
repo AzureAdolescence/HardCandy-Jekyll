@@ -25,10 +25,10 @@ portraits: '/assets/profile.jpeg' # your portraits image file path
 # SNS
 SNS: false
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
-  #mail: 'MansonZhou@outlook.com'
+  mail: ''
   #weixin: '' # 你的微信二维码存放的地址
-  qq: 'http: //wpa.qq.com/msgrd?v=3&uin='2050176808'&site=qq&menu=yes' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='2050176808'&site=qq&menu=yes
-  github: 'https: //github.com/AzureAdolescence'
+  qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='2050176808'&site=qq&menu=yes
+  github: ''
   #Codepen: ''
   #weibo: ''
   #instagram: ''
