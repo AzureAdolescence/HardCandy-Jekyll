@@ -27,8 +27,8 @@ SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
   #mail: 'MansonZhou@outlook.com'
   #weixin: '' # 你的微信二维码存放的地址
-  qq: 'http://wpa.qq.com/msgrd?v=3&uin='2050176808'&site=qq&menu=yes' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='2050176808'&site=qq&menu=yes
-  github: 'https://github.com/AzureAdolescence'
+  qq: 'http: //wpa.qq.com/msgrd?v=3&uin='2050176808'&site=qq&menu=yes' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='2050176808'&site=qq&menu=yes
+  github: 'https: //github.com/AzureAdolescence'
   #Codepen: ''
   #weibo: ''
   #instagram: ''
@@ -59,7 +59,7 @@ pygmentsTheme: 'tango'
 
 # 友情链接
 friends:
-  ruby&emspliu's blog: 'https://www.chaoque.github.io'
+  ruby liu's blog: 'https://www.chaoque.github.io'
 
 # 评论 最佳体验 在disqus、livere和Gitment之间三选一
 # disqus 评论
