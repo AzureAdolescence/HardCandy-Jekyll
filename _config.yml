@@ -23,7 +23,7 @@ aboutyou: '只是一个卑微的高中生啦~'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
-SNS: true
+SNS: false
 SNS-icon: ['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
   mail: 'mailto: MansonZhou@ooutlook.com'
   #weixin: '' # 你的微信二维码存放的地址
