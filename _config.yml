@@ -1,5 +1,5 @@
 # Site settings 配置站点
-title: 'Elliot Zhou的博客'
+title: 'Elliot Zhou’s blog'
 description: 'Tomorrow is another day.'
 keywords: '-'
 url: 'https://azureadolescence.github.io' # your host
@@ -24,11 +24,11 @@ portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
 SNS: false
-SNS-icon: ['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
-  mail: 'mailto: MansonZhou@ooutlook.com'
+SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
+  #mail: 'mailto: MansonZhou@ooutlook.com'
   #weixin: '' # 你的微信二维码存放的地址
-  qq: 'http://wpa.qq.com/msgrd?v=3&uin='2050176808'&site=qq&menu=yes' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='2050176808'&site=qq&menu=yes
-  github: 'https://github.com/AzureAdolescence'
+  #qq: 'http://wpa.qq.com/msgrd?v=3&uin='2050176808'&site=qq&menu=yes' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='2050176808'&site=qq&menu=yes
+  #github: 'https://github.com/AzureAdolescence'
   #Codepen: ''
   #weibo: ''
   #instagram: ''
