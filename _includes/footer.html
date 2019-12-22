@@ -1,12 +1,12 @@
 <footer id="bottom">
   <br>
-  <span> Copyright © 2019~2020 By Elliot Zhou
+  <span> Copyright © 2019~
   {% assign current = "now" | date: "%Y" | plus: 0%}
   {% unless site.footer.since and site.footer.since == current %}
     {{ site.footer.since }}
     -
   {% endunless %}
-  {{ current }}
+  {{ current }} By <a href="https://github.com/AzureAdolescence/">Elliot Zhou</a>
   <br>
   由 <a href="https://www.jekyll.com.cn/">Jekyll</a> 强力驱动 | 遵循 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">CC BY-NC-SA 4.0</a> 协议</span>
 </footer>
