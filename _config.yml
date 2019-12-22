@@ -23,12 +23,12 @@ aboutyou: '只是一个卑微的高中生啦~'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
-SNS: false
+SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
-  mail: ''
+  mail: 'mailto MansonZhou@ooutlook.com'
   #weixin: '' # 你的微信二维码存放的地址
-  qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='2050176808'&site=qq&menu=yes
-  github: ''
+  qq: 'http://wpa.qq.com/msgrd?v=3&uin='2050176808'&site=qq&menu=yes' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='2050176808'&site=qq&menu=yes
+  github: 'https://github.com/AzureAdolescence'
   #Codepen: ''
   #weibo: ''
   #instagram: ''
